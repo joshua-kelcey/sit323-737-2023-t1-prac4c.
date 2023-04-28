@@ -12,3 +12,4 @@ npm install -s passport
 npm install -s passport-local
 npm install -s ejs
 npm install -s bcrypt
+npm install -s uuid
